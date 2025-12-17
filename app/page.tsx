@@ -1,7 +1,12 @@
-export default function Home() {
+import "./App.css";
+import Card from "./Card";
+
+function App() {
   return (
-    <main>
-      <div>Next.js on GitHub Pages</div>
+    <main className="App">
+      <Card />
     </main>
   );
 }
+
+export default App;

@@ -1,27 +1,38 @@
-# Deploy Next.js to GitHub Pages
+# Frontend Mentor - Order summary card solution
 
-This is a Next.js template which can be deployed to GitHub Pages as a static site.
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Deploying to GitHub Pages
+## Table of contents
 
-1.  Create a new public GitHub repository
-2.  Push the starter code to the `main` branch
-3.  On GitHub, go to **Settings** > **Pages** > **Source**, and choose **GitHub Actions** as the source
-4.  Make a commit and push it to see the changes on GitHub Pages
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-Congratulations! You should have a URL like:
+## Overview
 
-```bash
-https://<github-user-name>.github.io/<github-project-name>/
-```
+### The challenge
 
-For more information, see our [deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying/static-exports).
+Users should be able to:
 
-## Learn More
+- See hover states for interactive elements
 
-To learn more about Next.js, take a look at the following resources:
+### Screenshot
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![](./design/active-states.jpg)
+![](./design/mobile-design.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Links
+
+[Solution](url)
+
+## My process
+
+### Built with
+
+- Nextjs
+- css
